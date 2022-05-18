@@ -20,7 +20,7 @@
 ---
 
 <h1 align='center'>
-  My Github stats
+  My Github stats (Server is down as of may 18, will be back asap, issue 1763 in the github readme stats)
 </h1>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bgachenot&count_private=true&show_icons=true&include_all_commits=true&hide=issues&theme=dracula"></a>
